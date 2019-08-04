@@ -1,0 +1,8 @@
+
+To permanently delete the previous commands, use this
+
+1. Set-PSReadlineOption -HistoryNoDuplicates
+
+2. Remove-Item (Get-PSReadlineOption).HistorySavePath
+
+3. Alt-f7

@@ -1,0 +1,33 @@
+{
+  "name": "mywebserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env NODE_ENV=dev DEBUG=app:* APP_NAME=app:MyWebServer nodemon app.server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "chalk": "^2.4.2",
+    "config": "^3.2.2",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15",
+    "morgan": "^1.9.1",
+    "mssql": "^4.3.0",
+    "querystring": "^0.2.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
