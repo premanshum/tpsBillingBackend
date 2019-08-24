@@ -1,0 +1,1922 @@
+[
+    {
+      "id": "241",
+      "description": "AutoAppealsAdditionalPages",
+      "amount": "0.0700",
+      "newproduct": "True",
+      "per": "30",
+      "code": "AAADDLPGS"
+    },
+    {
+      "id": "242",
+      "description": "Theamountofthisinvoicewillbedeductedautomaticallyonthe20th",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "ACH"
+    },
+    {
+      "id": "243",
+      "description": "AllClaimsServiceFeeforcurrentmonth",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "ACS"
+    },
+    {
+      "id": "244",
+      "description": "ACSOneCode",
+      "amount": "0.1100",
+      "newproduct": "True",
+      "per": "8",
+      "code": "ACSONE"
+    },
+    {
+      "id": "245",
+      "description": "Add-OnFee",
+      "amount": "50.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "ADDON"
+    },
+    {
+      "id": "246",
+      "description": "AdvancedAlerts",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "ADVALERTS"
+    },
+    {
+      "id": "247",
+      "description": "EligibilityPlusAllBundle",
+      "amount": "29.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "ADVELIGALL"
+    },
+    {
+      "id": "248",
+      "description": "EligibilityPlusBundle",
+      "amount": "39.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "ADVELIGPLU"
+    },
+    {
+      "id": "249",
+      "description": "AdvancedInstitutionalEditing",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "ADVINSEDIT"
+    },
+    {
+      "id": "250",
+      "description": "AdvancedTotalOfficeSolutions",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "ADVTOTAL"
+    },
+    {
+      "id": "251",
+      "description": "Alerts",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "ALERTS"
+    },
+    {
+      "id": "252",
+      "description": "AnalyticsBundle",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "ANALYTICS"
+    },
+    {
+      "id": "253",
+      "description": "AnnualMaintenanceFee",
+      "amount": "200.0000",
+      "newproduct": "True",
+      "per": "17",
+      "code": "ANNUAL"
+    },
+    {
+      "id": "254",
+      "description": "AppealLogic",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "APPEALLOGI"
+    },
+    {
+      "id": "255",
+      "description": "AppealLetter",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "APPEALLTR"
+    },
+    {
+      "id": "256",
+      "description": "AutomatedAppeals",
+      "amount": "1.0000",
+      "newproduct": "True",
+      "per": "30",
+      "code": "AUTOAPPLS"
+    },
+    {
+      "id": "257",
+      "description": "AutomatedSecondaries",
+      "amount": "0.8500",
+      "newproduct": "True",
+      "per": "6",
+      "code": "AUTOSEC"
+    },
+    {
+      "id": "258",
+      "description": "IntegratedARM",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "BATCHARM"
+    },
+    {
+      "id": "259",
+      "description": "IntegratedClaimStatusInquiry",
+      "amount": "10.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "BATCHCSI"
+    },
+    {
+      "id": "260",
+      "description": "IntegratedEligibility",
+      "amount": "29.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "BATCHELIG"
+    },
+    {
+      "id": "261",
+      "description": "IntegratedpaperResolve",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "BATCHPPRSV"
+    },
+    {
+      "id": "262",
+      "description": "BatchAuthorizationsandReferrals",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "BHCSM"
+    },
+    {
+      "id": "263",
+      "description": "BillingServicePackageforML/PT",
+      "amount": "29.5000",
+      "newproduct": "True",
+      "per": "25",
+      "code": "BILLINGML"
+    },
+    {
+      "id": "264",
+      "description": "BillingServicePackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "BILLINGSER"
+    },
+    {
+      "id": "265",
+      "description": "CAQHAccountMaintenance",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "CAQH"
+    },
+    {
+      "id": "266",
+      "description": "CASSPostalFilter",
+      "amount": "0.0500",
+      "newproduct": "True",
+      "per": "28",
+      "code": "CASSFLTR"
+    },
+    {
+      "id": "267",
+      "description": "CCIEdits",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "CCI"
+    },
+    {
+      "id": "268",
+      "description": "CreditCardProcessingbyTransfirst",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "CCPROCESS"
+    },
+    {
+      "id": "269",
+      "description": "ClaimCoding",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "CLAIMCODE"
+    },
+    {
+      "id": "270",
+      "description": "WebClaimsTransmission",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "CLAIMS"
+    },
+    {
+      "id": "271",
+      "description": "ClaimStatusInquiry",
+      "amount": "0.2500",
+      "newproduct": "True",
+      "per": "20",
+      "code": "CLAIMSTAT"
+    },
+    {
+      "id": "272",
+      "description": "ClickandPrintforpreviousmonth",
+      "amount": "0.2500",
+      "newproduct": "True",
+      "per": "15",
+      "code": "CLICKPRNT"
+    },
+    {
+      "id": "273",
+      "description": "COBPassThroughtoPaper",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "16",
+      "code": "COBPT"
+    },
+    {
+      "id": "274",
+      "description": "Statement-FullColor2ndPage",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "COLORSP"
+    },
+    {
+      "id": "275",
+      "description": "Statement-FullColor",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "COLORSTMT"
+    },
+    {
+      "id": "276",
+      "description": "Statement-FullColorDuplexBacks",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "COLORSTMTX"
+    },
+    {
+      "id": "277",
+      "description": "riskAssess",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "COMPLRISK"
+    },
+    {
+      "id": "278",
+      "description": "ComplyMDClaimsAnalysis",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "COMPMD"
+    },
+    {
+      "id": "279",
+      "description": "ConnectPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "CONNECT"
+    },
+    {
+      "id": "280",
+      "description": "ConnectPackageforML/PT",
+      "amount": "25.6800",
+      "newproduct": "True",
+      "per": "25",
+      "code": "CONNECTML"
+    },
+    {
+      "id": "281",
+      "description": "ConnectPackage-NoPaper",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "CONNECTNP"
+    },
+    {
+      "id": "282",
+      "description": "Consulting",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "13",
+      "code": "CONSULT"
+    },
+    {
+      "id": "283",
+      "description": "ContractManager",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "CONTMGR"
+    },
+    {
+      "id": "284",
+      "description": "ContractResolveInstitutional",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "CONTRESLVI"
+    },
+    {
+      "id": "285",
+      "description": "ContractResolve",
+      "amount": "20.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "CONTRESOLV"
+    },
+    {
+      "id": "286",
+      "description": "ConvenienceFee",
+      "amount": "10.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "CONVENFEE"
+    },
+    {
+      "id": "287",
+      "description": "CredentialingServicesBundle",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "CREDBUNDLE"
+    },
+    {
+      "id": "288",
+      "description": "Credentialing",
+      "amount": "150.0000",
+      "newproduct": "True",
+      "per": "40",
+      "code": "CREDENTIAL"
+    },
+    {
+      "id": "289",
+      "description": "Follow-uponappsnotinitiatedbyTPS",
+      "amount": "100.0000",
+      "newproduct": "True",
+      "per": "40",
+      "code": "CREDFOLLOW"
+    },
+    {
+      "id": "290",
+      "description": "AdjustmenttoInvoice",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "CREDIT"
+    },
+    {
+      "id": "291",
+      "description": "WebClaimStatusInquiry",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "CSI"
+    },
+    {
+      "id": "292",
+      "description": "CustomProgramming",
+      "amount": "450.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "CUSTPROG"
+    },
+    {
+      "id": "293",
+      "description": "DataTransferService",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "DATAFEED"
+    },
+    {
+      "id": "294",
+      "description": "DataRecords",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "DATAREC"
+    },
+    {
+      "id": "295",
+      "description": "DeluxeNEHEN",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "DELUXE"
+    },
+    {
+      "id": "296",
+      "description": "DemographicChange",
+      "amount": "50.0000",
+      "newproduct": "True",
+      "per": "40",
+      "code": "DEMOGRAPHC"
+    },
+    {
+      "id": "297",
+      "description": "DenialsDashboard",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "DENDASH"
+    },
+    {
+      "id": "298",
+      "description": "DenialManagementTools",
+      "amount": "45.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "DENIALMGMT"
+    },
+    {
+      "id": "299",
+      "description": "DenialManagement-AllPayer",
+      "amount": "35.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "DENIALMGRT"
+    },
+    {
+      "id": "300",
+      "description": "DenialsWorkflow",
+      "amount": "15.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "DENREPORT"
+    },
+    {
+      "id": "301",
+      "description": "DentalClaims",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "DENTAL"
+    },
+    {
+      "id": "302",
+      "description": "eCWAdvancedBundledPackage",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "ECWENHANCE"
+    },
+    {
+      "id": "303",
+      "description": "ECWIntegratedElig/RMPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "ECWIERM"
+    },
+    {
+      "id": "304",
+      "description": "ECW10iIntegratedPlusPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "ECWINSPLUS"
+    },
+    {
+      "id": "305",
+      "description": "ECW10iIntegratedPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "ECWINSTINT"
+    },
+    {
+      "id": "306",
+      "description": "ECWIntegratedPackageSpecial",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "ECWIPS"
+    },
+    {
+      "id": "307",
+      "description": "eCWPackageML/PT",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "ECWML"
+    },
+    {
+      "id": "308",
+      "description": "ECWPackageSpecial",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "ECWPS"
+    },
+    {
+      "id": "309",
+      "description": "ECWReimbursementPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "ECWRM"
+    },
+    {
+      "id": "310",
+      "description": "eCWUrgentCarePackage",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "18",
+      "code": "ECWURGENT"
+    },
+    {
+      "id": "311",
+      "description": "Real-timeEligibility-FixedRate",
+      "amount": "20.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "ELIGALL"
+    },
+    {
+      "id": "312",
+      "description": "Real-timeEligibility-Medicare",
+      "amount": "0.2500",
+      "newproduct": "True",
+      "per": "21",
+      "code": "ELIGMCR"
+    },
+    {
+      "id": "313",
+      "description": "Real-timeEligibility-Nonpar",
+      "amount": "0.2500",
+      "newproduct": "True",
+      "per": "20",
+      "code": "ELIGNP"
+    },
+    {
+      "id": "314",
+      "description": "EligiblityOnly",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "ELIGONLY"
+    },
+    {
+      "id": "315",
+      "description": "MedicaidEligibilityTransactionFee",
+      "amount": "0.2000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "ELIGTR"
+    },
+    {
+      "id": "316",
+      "description": "EnhancedDenialsSolution",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "ENHANCDEN"
+    },
+    {
+      "id": "317",
+      "description": "EnhancedReportBundle",
+      "amount": "15.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "ENHANCED"
+    },
+    {
+      "id": "318",
+      "description": "eobConvert",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "EOBCONVER"
+    },
+    {
+      "id": "319",
+      "description": "AdvancedReimbursementManager",
+      "amount": "45.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "EOBRESLV"
+    },
+    {
+      "id": "320",
+      "description": "eobResolve",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "EOBRESNHXS"
+    },
+    {
+      "id": "321",
+      "description": "UniversityofMissouri-ElectronicStatements",
+      "amount": "0.1500",
+      "newproduct": "True",
+      "per": "23",
+      "code": "EQCSTMT"
+    },
+    {
+      "id": "322",
+      "description": "EssentialsPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "ESSENTIALS"
+    },
+    {
+      "id": "323",
+      "description": "EssentialsPackageforML/PT",
+      "amount": "34.5000",
+      "newproduct": "True",
+      "per": "25",
+      "code": "ESSENTLSML"
+    },
+    {
+      "id": "324",
+      "description": "AdditionalService&Support",
+      "amount": "50.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "ETADSER"
+    },
+    {
+      "id": "325",
+      "description": "ServiceandSupportFee",
+      "amount": "100.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "ETQCTRAN"
+    },
+    {
+      "id": "326",
+      "description": "ExpressPackageAS",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "EXPRESSAS"
+    },
+    {
+      "id": "327",
+      "description": "ExpressPackageCOB",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "EXPRESSCOB"
+    },
+    {
+      "id": "328",
+      "description": "ExpressPlus",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "EXPRSSPLUS"
+    },
+    {
+      "id": "329",
+      "description": "FastForwardservicefeeforpreviousmonth",
+      "amount": "0.5000",
+      "newproduct": "True",
+      "per": "28",
+      "code": "FASTFWD"
+    },
+    {
+      "id": "330",
+      "description": "FeeAnalyzer",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "FEEANZR"
+    },
+    {
+      "id": "331",
+      "description": "Follow-UpLetters",
+      "amount": "0.6500",
+      "newproduct": "True",
+      "per": "7",
+      "code": "FULETTERS"
+    },
+    {
+      "id": "332",
+      "description": "GuaranteeAgreement",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "GUARANTEE"
+    },
+    {
+      "id": "333",
+      "description": "HIPAATraining",
+      "amount": "100.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "HIPAA"
+    },
+    {
+      "id": "334",
+      "description": "HIPAASaysAnnualMaintenanceContract",
+      "amount": "500.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "HIPAACON"
+    },
+    {
+      "id": "335",
+      "description": "HIPAAPoliciesandProcedurescompletedbyGatewayEDI",
+      "amount": "2995.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "HIPAAGEDI"
+    },
+    {
+      "id": "336",
+      "description": "HIPAASays-UserLicense(s)",
+      "amount": "1499.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "HIPAALIC"
+    },
+    {
+      "id": "337",
+      "description": "HIPAASayswith1yearofGatewayEDISupport",
+      "amount": "2495.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "HIPAASUPP"
+    },
+    {
+      "id": "338",
+      "description": "StatementHoldandRelease",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "HOLDRELEAS"
+    },
+    {
+      "id": "339",
+      "description": "HospitalClaims",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "HOSPITALCL"
+    },
+    {
+      "id": "340",
+      "description": "HospitalPaper",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "HOSPITALPA"
+    },
+    {
+      "id": "341",
+      "description": "HospitalPrivileges",
+      "amount": "150.0000",
+      "newproduct": "True",
+      "per": "40",
+      "code": "HOSPPRIV"
+    },
+    {
+      "id": "342",
+      "description": "HTMLEligibility",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "HTMLELIG"
+    },
+    {
+      "id": "343",
+      "description": "DONOTUSE-CSIIntegrated",
+      "amount": "0.2500",
+      "newproduct": "True",
+      "per": "20",
+      "code": "ICLAIMSTAT"
+    },
+    {
+      "id": "344",
+      "description": "OnlineImageArchive",
+      "amount": "0.0100",
+      "newproduct": "True",
+      "per": "24",
+      "code": "IMG01"
+    },
+    {
+      "id": "345",
+      "description": "InsuranceCoverageDiscovery",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "INSCOVDIS"
+    },
+    {
+      "id": "346",
+      "description": "COBRAINSURANCE",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "INSURANCE"
+    },
+    {
+      "id": "347",
+      "description": "InterestIncome",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "INTEREST"
+    },
+    {
+      "id": "348",
+      "description": "InternetServices",
+      "amount": "19.9500",
+      "newproduct": "True",
+      "per": "13",
+      "code": "ISP"
+    },
+    {
+      "id": "349",
+      "description": "LATEFEEOF11/2%FORBALOVER45DAYS(MIN$5)",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "LATE"
+    },
+    {
+      "id": "350",
+      "description": "OriginalDocumentRetrieval",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "30",
+      "code": "LBORGDOCR"
+    },
+    {
+      "id": "351",
+      "description": "ProgrammingFee",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "30",
+      "code": "LBPROGRAM"
+    },
+    {
+      "id": "352",
+      "description": "SecureDocumentDestruction",
+      "amount": "2.2500",
+      "newproduct": "True",
+      "per": "30",
+      "code": "LBSECURE"
+    },
+    {
+      "id": "353",
+      "description": "BoxStorage",
+      "amount": "0.7500",
+      "newproduct": "True",
+      "per": "30",
+      "code": "LBSTORAGE"
+    },
+    {
+      "id": "354",
+      "description": "LicenseApplication",
+      "amount": "100.0000",
+      "newproduct": "True",
+      "per": "40",
+      "code": "LICENAPPL"
+    },
+    {
+      "id": "355",
+      "description": "LiveCompliance",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "LIVECOMP"
+    },
+    {
+      "id": "356",
+      "description": "State/LocalityRequiredSalesTax",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "LOCALTAX"
+    },
+    {
+      "id": "357",
+      "description": "paperResolveLockbox",
+      "amount": "0.8000",
+      "newproduct": "True",
+      "per": "36",
+      "code": "LOCKBOX"
+    },
+    {
+      "id": "358",
+      "description": "AdvancedCodingEdits",
+      "amount": "25.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "MACCI"
+    },
+    {
+      "id": "359",
+      "description": "MedicarePartA",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "MCRPTA"
+    },
+    {
+      "id": "360",
+      "description": "MDEdge",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "MDEDGE"
+    },
+    {
+      "id": "361",
+      "description": "MODepartmentofHealthTransaction",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "MDOH"
+    },
+    {
+      "id": "362",
+      "description": "Medigapcustomprogrammingfee",
+      "amount": "200.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "MEDIGAP"
+    },
+    {
+      "id": "363",
+      "description": "MEDTECHSALE",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "MEDTECH"
+    },
+    {
+      "id": "364",
+      "description": "MISCELLANEOUSDEPOSIT",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "MISC"
+    },
+    {
+      "id": "365",
+      "description": "Modem",
+      "amount": "150.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "MODEM"
+    },
+    {
+      "id": "366",
+      "description": "eobResolveInstitutional",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "NHXSI"
+    },
+    {
+      "id": "367",
+      "description": "NPIApplication",
+      "amount": "150.0000",
+      "newproduct": "True",
+      "per": "40",
+      "code": "NPIAPPL"
+    },
+    {
+      "id": "368",
+      "description": "ReturnedCheck/ACHFee",
+      "amount": "15.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "NSF"
+    },
+    {
+      "id": "369",
+      "description": "OpenSiteFee",
+      "amount": "25.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "OAF"
+    },
+    {
+      "id": "370",
+      "description": "OnlineClaimsCorrection-Institutional",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "37",
+      "code": "OLCCI"
+    },
+    {
+      "id": "371",
+      "description": "OnlineClaimsCorrection-Professional",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "37",
+      "code": "OLCCP"
+    },
+    {
+      "id": "372",
+      "description": "RCMServices",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "ORCM"
+    },
+    {
+      "id": "373",
+      "description": "RevenueCycleServicesML/PT",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "ORCMML"
+    },
+    {
+      "id": "374",
+      "description": "WorkComp",
+      "amount": "0.3500",
+      "newproduct": "True",
+      "per": "29",
+      "code": "P2P"
+    },
+    {
+      "id": "375",
+      "description": "PMG-PALinkWebService",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "PALINK"
+    },
+    {
+      "id": "376",
+      "description": "PaperResolve",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "30",
+      "code": "PAPERESLV"
+    },
+    {
+      "id": "377",
+      "description": "PatientExchange-OnlinePayments",
+      "amount": "15.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "PEPAYMT"
+    },
+    {
+      "id": "378",
+      "description": "PatientExchange-RSPortal",
+      "amount": "15.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "PEPMTRS"
+    },
+    {
+      "id": "379",
+      "description": "PatientExchange-OnlineStatements",
+      "amount": "0.2200",
+      "newproduct": "True",
+      "per": "28",
+      "code": "PESTMTS"
+    },
+    {
+      "id": "380",
+      "description": "Print&MailAdditionalPages",
+      "amount": "0.0700",
+      "newproduct": "True",
+      "per": "30",
+      "code": "PMADDLPGS"
+    },
+    {
+      "id": "381",
+      "description": "Postage&SpecialHandlingFees",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "38",
+      "code": "PMPOSTFEES"
+    },
+    {
+      "id": "382",
+      "description": "POSTAGEDEPOSITFORPATIENTSTATEMENTS",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "POS"
+    },
+    {
+      "id": "383",
+      "description": "Correspondence",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "30",
+      "code": "PPRCORRSPN"
+    },
+    {
+      "id": "384",
+      "description": "PatientPay",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "30",
+      "code": "PPRPTNPAY"
+    },
+    {
+      "id": "385",
+      "description": "PaperPaymentConversion",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "PPYMTCON"
+    },
+    {
+      "id": "386",
+      "description": "PQRILogic",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "PQRILOGIC"
+    },
+    {
+      "id": "387",
+      "description": "PREVIOUSBALANCEDUEASOF07/31/97",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "PREVBAL"
+    },
+    {
+      "id": "388",
+      "description": "PayerIntegration",
+      "amount": "1800.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "PRGRMMG"
+    },
+    {
+      "id": "389",
+      "description": "Pricer",
+      "amount": "10.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "PRICER"
+    },
+    {
+      "id": "390",
+      "description": "PricerInstitutional",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "PRICERI"
+    },
+    {
+      "id": "391",
+      "description": "PrintandMail",
+      "amount": "1.0000",
+      "newproduct": "True",
+      "per": "30",
+      "code": "PRINTMAIL"
+    },
+    {
+      "id": "392",
+      "description": "BasicClaimsProcessing",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "PRODCLAIMS"
+    },
+    {
+      "id": "393",
+      "description": "PropensitytoPay",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "PROPENSITY"
+    },
+    {
+      "id": "394",
+      "description": "Postcards",
+      "amount": "0.5100",
+      "newproduct": "True",
+      "per": "8",
+      "code": "PSTCARDS"
+    },
+    {
+      "id": "395",
+      "description": "PatientAccessBundle",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "PTACCSALL"
+    },
+    {
+      "id": "396",
+      "description": "PatientAccessBundle-Integrated",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "PTACCSINT"
+    },
+    {
+      "id": "397",
+      "description": "PayerListEdits",
+      "amount": "100.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "PYRLIST"
+    },
+    {
+      "id": "398",
+      "description": "QuickCollectLetterSeriesforpreviousmonth",
+      "amount": "10.9500",
+      "newproduct": "True",
+      "per": "8",
+      "code": "QCCOLLECT"
+    },
+    {
+      "id": "399",
+      "description": "QuickEDI",
+      "amount": "500.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "QCEDI"
+    },
+    {
+      "id": "400",
+      "description": "QuickEligibility",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "QCELIG"
+    },
+    {
+      "id": "401",
+      "description": "QuickClaimsEnrollmentFee",
+      "amount": "2100.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "QCENROLL"
+    },
+    {
+      "id": "402",
+      "description": "QuickPostedRemits",
+      "amount": "0.1300",
+      "newproduct": "True",
+      "per": "18",
+      "code": "QCERN"
+    },
+    {
+      "id": "403",
+      "description": "PatientStatementInserts",
+      "amount": "0.1600",
+      "newproduct": "True",
+      "per": "14",
+      "code": "QCINSERTS"
+    },
+    {
+      "id": "404",
+      "description": "Non-ParClaimFee",
+      "amount": "0.2500",
+      "newproduct": "False",
+      "per": "2",
+      "code": "QCNONPAR"
+    },
+    {
+      "id": "405",
+      "description": "PaperClaimsPrintedforPreviousMonth",
+      "amount": "0.6900",
+      "newproduct": "True",
+      "per": "1",
+      "code": "QCPAPER"
+    },
+    {
+      "id": "406",
+      "description": "PayerTransactions-CSI",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "QCPAYCSI"
+    },
+    {
+      "id": "407",
+      "description": "PayerTransactions-Eligibility",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "QCPAYELIG"
+    },
+    {
+      "id": "408",
+      "description": "QuickClaimsPayerTransactionFee",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "8",
+      "code": "QCPAYER"
+    },
+    {
+      "id": "409",
+      "description": "PayerTransactions-Remits",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "QCPAYREMIT"
+    },
+    {
+      "id": "410",
+      "description": "QuickPrintedRemits",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "QCPERN"
+    },
+    {
+      "id": "411",
+      "description": "PatientStatementPostage",
+      "amount": "0.5000",
+      "newproduct": "True",
+      "per": "4",
+      "code": "QCPOSTAGE"
+    },
+    {
+      "id": "412",
+      "description": "QCPayerTranslationsTransactionFee",
+      "amount": "0.2500",
+      "newproduct": "False",
+      "per": "0",
+      "code": "QCPYRXLATE"
+    },
+    {
+      "id": "413",
+      "description": "QCPayerTranslationsSetUpFee",
+      "amount": "5000.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "QCPYRXLSU"
+    },
+    {
+      "id": "414",
+      "description": "QuickReferrals",
+      "amount": "10.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "QCREFR"
+    },
+    {
+      "id": "415",
+      "description": "PatientStatementsadditionalpages",
+      "amount": "0.1600",
+      "newproduct": "True",
+      "per": "5",
+      "code": "QCSNDPG"
+    },
+    {
+      "id": "416",
+      "description": "PatientStatements",
+      "amount": "0.7500",
+      "newproduct": "True",
+      "per": "4",
+      "code": "QCSTMTS"
+    },
+    {
+      "id": "417",
+      "description": "PatientStatements-DuplexBacks",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "QCSTMTSX"
+    },
+    {
+      "id": "418",
+      "description": "On-SiteTraining",
+      "amount": "100.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "QCTRAING"
+    },
+    {
+      "id": "419",
+      "description": "ClaimsTransactionFee",
+      "amount": "75.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "QCTRAN"
+    },
+    {
+      "id": "420",
+      "description": "QuickClaimsSet-upFee",
+      "amount": "250.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "QSEND"
+    },
+    {
+      "id": "421",
+      "description": "RevenueCycleMngmntAutomation",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "RCMA"
+    },
+    {
+      "id": "422",
+      "description": "RCMBundle",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "RCMBNDL"
+    },
+    {
+      "id": "423",
+      "description": "RCMS-EligibilityOnly",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "RCMSELIG"
+    },
+    {
+      "id": "424",
+      "description": "RCMTotalOfficePackage",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "RCMTOTAL"
+    },
+    {
+      "id": "425",
+      "description": "eobResolve+",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "RECOVERY"
+    },
+    {
+      "id": "426",
+      "description": "Re-credentialing",
+      "amount": "100.0000",
+      "newproduct": "True",
+      "per": "40",
+      "code": "RECREDEN"
+    },
+    {
+      "id": "427",
+      "description": "Rent",
+      "amount": "1080.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "RENT"
+    },
+    {
+      "id": "428",
+      "description": "RevenueHealthAssessment",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "REVASSESS"
+    },
+    {
+      "id": "429",
+      "description": "RevenueOptimizationPlan",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "REVCAREPLN"
+    },
+    {
+      "id": "430",
+      "description": "ReimbursementManager",
+      "amount": "29.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "RMLITE"
+    },
+    {
+      "id": "431",
+      "description": "ReportManager",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "RPTMGR"
+    },
+    {
+      "id": "432",
+      "description": "DONOTUSE-RealTimeClaimEdits",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "RTCE"
+    },
+    {
+      "id": "433",
+      "description": "DONOTUSE-RTClaimEditingIntg",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "RTCEINTG"
+    },
+    {
+      "id": "434",
+      "description": "DONOTUSE-RealTimeGEDIEdits",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "RTGE"
+    },
+    {
+      "id": "435",
+      "description": "ActionEdits",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "RTGEINTG"
+    },
+    {
+      "id": "436",
+      "description": "Real-timeAuthorizationsandReferrals",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "41",
+      "code": "RTHCSM"
+    },
+    {
+      "id": "437",
+      "description": "PatientResponsibilityEstimation",
+      "amount": "0.1800",
+      "newproduct": "True",
+      "per": "39",
+      "code": "RTPA"
+    },
+    {
+      "id": "438",
+      "description": "RealTimePaymentAssuranceIntegrated",
+      "amount": "25.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "RTPAINTG"
+    },
+    {
+      "id": "439",
+      "description": "RealTimeUtilizationManagement",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "RTUM"
+    },
+    {
+      "id": "440",
+      "description": "SavvyPackage",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "SAVVY"
+    },
+    {
+      "id": "441",
+      "description": "Self-PayEligibility",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "SELFPAY"
+    },
+    {
+      "id": "442",
+      "description": "InHouseTraining",
+      "amount": "50.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "SEMINAR"
+    },
+    {
+      "id": "443",
+      "description": "Set-upFee-Credentialing",
+      "amount": "250.0000",
+      "newproduct": "True",
+      "per": "40",
+      "code": "SETUPCRED"
+    },
+    {
+      "id": "444",
+      "description": "Set-upFee-RCMS",
+      "amount": "200.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "SETUPRCMS"
+    },
+    {
+      "id": "445",
+      "description": "SiteFee",
+      "amount": "75.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "SITEFEE"
+    },
+    {
+      "id": "446",
+      "description": "SmartSolutions",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "SMART"
+    },
+    {
+      "id": "447",
+      "description": "SmartPackageforML/PT",
+      "amount": "49.5000",
+      "newproduct": "True",
+      "per": "25",
+      "code": "SMARTML"
+    },
+    {
+      "id": "448",
+      "description": "Smartsheet10",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "SMARTSHEET"
+    },
+    {
+      "id": "449",
+      "description": "SimpleClaim",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "35",
+      "code": "SMPLCLM"
+    },
+    {
+      "id": "450",
+      "description": "SecondaryOnlineClaimsCorrection",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "SOCC"
+    },
+    {
+      "id": "451",
+      "description": "SecondaryOnlineSubmission",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "27",
+      "code": "SOS"
+    },
+    {
+      "id": "452",
+      "description": "StandardPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "STANDARD"
+    },
+    {
+      "id": "453",
+      "description": "StandardPackage-NoPaper",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "STANDARDNP"
+    },
+    {
+      "id": "454",
+      "description": "PatientStatementAllocation",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "STMTALLOCT"
+    },
+    {
+      "id": "455",
+      "description": "PatientStatementSetupFee",
+      "amount": "50.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "STMTSETUP"
+    },
+    {
+      "id": "456",
+      "description": "SuitePackage",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "SUITE"
+    },
+    {
+      "id": "457",
+      "description": "SupportFee",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "SUPPORTFEE"
+    },
+    {
+      "id": "458",
+      "description": "SwiftPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "SWIFT"
+    },
+    {
+      "id": "459",
+      "description": "SwiftPackageCOB",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "SWIFTCOB"
+    },
+    {
+      "id": "460",
+      "description": "SwiftPackageCOBwithIE",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "SWIFTCOBIE"
+    },
+    {
+      "id": "461",
+      "description": "SwiftPackagewithIE",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "SWIFTIE"
+    },
+    {
+      "id": "462",
+      "description": "SwiftPackageforML/PT",
+      "amount": "37.0500",
+      "newproduct": "True",
+      "per": "25",
+      "code": "SWIFTML"
+    },
+    {
+      "id": "463",
+      "description": "SwiftPackage-NoPaper",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "SWIFTNP"
+    },
+    {
+      "id": "464",
+      "description": "TCPEligibility",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "TCPELIG"
+    },
+    {
+      "id": "465",
+      "description": "TECHNOLOGYCONSULTANT",
+      "amount": "100.0000",
+      "newproduct": "False",
+      "per": "13",
+      "code": "TECHCONSUL"
+    },
+    {
+      "id": "466",
+      "description": "ThirdMillenium",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "THIRDMIL"
+    },
+    {
+      "id": "467",
+      "description": "TimelyFilingLetter",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "TIMELYLTR"
+    },
+    {
+      "id": "468",
+      "description": "TimesaverPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "TIMESVR"
+    },
+    {
+      "id": "469",
+      "description": "TimesaverPackage-NoPaper",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "TIMESVRNP"
+    },
+    {
+      "id": "470",
+      "description": "TotalOfficePackageforML/PT",
+      "amount": "84.5000",
+      "newproduct": "True",
+      "per": "25",
+      "code": "TOTALML"
+    },
+    {
+      "id": "471",
+      "description": "TotalOfficeSolutions",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "3",
+      "code": "TOTALOFFIC"
+    },
+    {
+      "id": "472",
+      "description": "TotalOfficeSolutionsw/PaperResolve",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "3",
+      "code": "TOTALPPRS"
+    },
+    {
+      "id": "473",
+      "description": "TimesaverPackage",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "TS200"
+    },
+    {
+      "id": "474",
+      "description": "TriZettoTouchlessAuthorizationProcess",
+      "amount": "0.0000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "TTAP"
+    },
+    {
+      "id": "475",
+      "description": "WorkCompPaperClaims",
+      "amount": "1.2500",
+      "newproduct": "True",
+      "per": "8",
+      "code": "WAPER"
+    },
+    {
+      "id": "476",
+      "description": "WebClaimsTransmission2000",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "WEBCLAIMS"
+    },
+    {
+      "id": "477",
+      "description": "WebMedicaidEligibilityTransactionFee",
+      "amount": "0.2000",
+      "newproduct": "False",
+      "per": "0",
+      "code": "WEBELIG"
+    },
+    {
+      "id": "478",
+      "description": "WEBRemits",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "0",
+      "code": "WEBERN"
+    },
+    {
+      "id": "479",
+      "description": "ElectronicAuthorizations",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "41",
+      "code": "WHCSM"
+    },
+    {
+      "id": "480",
+      "description": "WorkedFiles",
+      "amount": "0.0000",
+      "newproduct": "True",
+      "per": "8",
+      "code": "WORKEDFILE"
+    }
+  ]

@@ -1,0 +1,8 @@
+CREATE TABLE DBO.PRODUCT(
+      id int Not Null PRIMARY KEY
+    , description varchar Null
+    , amount money Null
+    , newProduct bit null
+    , per int null
+    , code varchar not null
+)

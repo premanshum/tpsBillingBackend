@@ -1,0 +1,12 @@
+CREATE TABLE ITEM(
+      invNum varchar not null
+    , item varchar not null
+    , product varchar not null
+    , unitprice decimal not null
+    , units decimal not null
+    , price decimal not null
+    , id int not null PRIMARY KEY
+    , package int not null
+    , IsTransact bit not null
+    , ngCharge money not null
+)

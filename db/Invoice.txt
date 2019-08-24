@@ -1,0 +1,14 @@
+CREATE TABLE dbo.Invoice(
+      prov_site varchar null
+    , [office] varchar null
+    , custNum varchar null
+    , invNum varchar not Null
+    , invoiceDate datetime null
+    , payDate datetime null
+    , balance decimal not null
+    , totalCharge decimal not null
+    , tax decimal not null
+    , po_number varchar not null
+    , isDeleted bit not null
+    , CreatedDate datetime null
+)

@@ -1,0 +1,14 @@
+DROP TABLE dbo.BillRev1
+
+CREATE TABLE dbo.BillRev (
+      [Month] int null
+    , [Year] int null
+    , [Reviewed] int null
+    , [Path] varchar null
+    , [invnum] varchar null
+    , [Desc] varchar null
+    , [MRev] bit null
+    , [User] varchar null
+    , [date] datetime null
+    , [OrigDesc] varchar null
+)
