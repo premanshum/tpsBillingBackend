@@ -3,29 +3,37 @@ var fs = require('fs'),
 
 readFromFile = (path) => {
     var readPromise = new Promise((resolve, reject)=>{
-        var rd = readline.createInterface({
-            input: fs.createReadStream(path),
-            console: false
-        });
+        try{
+
+            var rd = readline.createInterface({
+                input: fs.createReadStream(path),
+                console: false
+            });
+            
+            var lines = [];
         
-        var lines = [];
-        var counter = 0;
-    
-        rd.on('line', function(line) {
-            lines.push(counter++ + '-' + line);
-            //console.log(line);
-        });
-    
-        rd.on('close', () => {
-            var json = JSON.stringify(lines);
-            resolve(lines);
-        });
+            rd.on('line', function(line) {
+                lines.push(line.trim());
+                //console.log(line);
+            });
+        
+            rd.on('close', () => {
+                //var json = JSON.stringify(lines);
+                resolve(lines);
+            });
+        }
+        catch{
+            reject(new Error("error reading the file"));
+        }
     });
 
     return readPromise;
 }
 
-let rp = readFromFile('D:/Technical/powershellscripts/learn/sample01.txt');
+module.exports = readFromFile;
+
+/*
+let rp = readFromFile('../asdas');
 rp.then(
     lines => {
         let kkk = JSON.stringify(lines)
@@ -35,3 +43,4 @@ rp.then(
 
 console.log("The rp value:")
 console.log(rp);
+*/
