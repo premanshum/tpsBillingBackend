@@ -1,17 +1,17 @@
 const express = require('express');
-const customerRouter = express.Router();
+const cardRouter = express.Router();
 const cardSummaryRouter = require('./summary');
 
 function router() {
 
-    customerRouter.route('/')
+    cardRouter.route('/')
        .get((req, res) => {
                 res.send('Hello, Cards!');
         });
     
-    customerRouter.use('/Summary', cardSummaryRouter());
+    cardRouter.use('/Summary', cardSummaryRouter());
 
-    return customerRouter;
+    return cardRouter;
 }
 
 module.exports = router;

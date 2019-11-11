@@ -28,6 +28,7 @@ function router() {
             }
         });
     });
+    
 
     return cardSummaryRouter;
 }

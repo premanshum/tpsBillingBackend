@@ -2,6 +2,7 @@ const express = require('express');
 const customerRouter = express.Router();
 const payerRouter = require('./payer');
 const accountRouter = require('./account');
+const card = require('./card');
 
 function router() {
 
@@ -12,6 +13,8 @@ function router() {
     
     customerRouter.use('/payers', payerRouter());
     customerRouter.use('/accounts', accountRouter());
+    customerRouter.use('/cardGroups', card());
+    
 
     return customerRouter;
 }

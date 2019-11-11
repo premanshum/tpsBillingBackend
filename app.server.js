@@ -15,6 +15,8 @@ const cardRouter = require('./src/routes/card');
 
 const customerRouter = require('./src/routes/customer');
 
+const invoiceRouter = require('./src/routes/invoice');
+
 const transactionRouter = require('./src/routes/transaction');
 
 // Create the express object, which acts as a web-server
@@ -25,8 +27,9 @@ const app = express();
 app.use('/products', productRouter);
 app.use('/users', userRouter());
 app.use('/customer', customerRouter());
-app.use('/transaction', transactionRouter());
 app.use('/card', cardRouter());
+app.use('/invoice', invoiceRouter());
+app.use('/transaction', transactionRouter());
 
 app.listen(config.listener.port, () => {
 	debug(`Server is running on port ${chalk.green(config.listener.port)}`);

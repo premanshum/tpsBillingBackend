@@ -39,7 +39,7 @@
             "HasActiveVolBasedBonus": null,
             "HasActiveVolBasedPricing": null,
             "IndustryClass": "3-Growing of vegetables and melons, roots and tubers",
-            "InvoiceAccountID": 2566,
+            "InvoiceAccountID": 2317,
             "InvoiceAccountNumber": "CZ00002080",
             "InvoiceAccountShortName": "Short CustC",
             "InvoiceDistributionMethods": [
@@ -83,7 +83,7 @@
             "PayerFullName": "MoneyMan of Wealthy Islands",
             "PayerGroupId": 10,
             "PayerId": 2317,
-            "PayerNumber": "EN00001861",
+            "PayerNumber": "EN00002713",
             "PayerShortName": "MoneyMan",
             "PayerTradingName": "MoneyMan & Rich Brothers",
             "PaymentMethod": "Incoming - Bank Transfer",
