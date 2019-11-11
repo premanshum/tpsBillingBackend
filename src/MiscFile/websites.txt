@@ -1,0 +1,4 @@
+https://www.npmjs.com/package/azure-function-express
+https://stackoverflow.com/questions/52228045/how-to-write-azure-functions-which-will-use-express-api
+https://stackoverflow.com/questions/43614581/deploying-a-node-app-on-azure-functions
+https://stackoverflow.com/questions/51162930/azure-functions-nodejs-express-app-throws-unable-to-determine-function-entry-poi
