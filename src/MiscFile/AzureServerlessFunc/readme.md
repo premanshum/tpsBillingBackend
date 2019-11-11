@@ -1,6 +1,6 @@
 The Azure serverless function implementation
 
-There are three steps:
+There are following steps:
 1. Create an Azure function App and add a httpTrigger function in the function app. Name it as AzFuncExp.
 
 2. Copy entire content of index.js file to corresponding index.js file of AzFuncExp function.
