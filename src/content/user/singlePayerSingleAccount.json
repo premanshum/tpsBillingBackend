@@ -1,0 +1,56 @@
+{
+    "Accounts": [
+        {
+            "AccountId": 23025,
+            "AccountName": "Stark Automotive Private company",
+            "AccountNumber": "EN29384940",
+            "ColCoCode": 32,
+            "ColCoCountryCode": "EN",
+            "ColCoId": 32,
+            "PayerId": 2317,
+            "PayerName": "MoneyMan",
+            "PayerNumber": "EN00002713"
+        }
+    ],
+    "CollectingCompanies": [],
+    "CSVSeparator": ",",
+    "DateFormat": "",
+    "DecimalSeparator": ".",
+    "DisplayName": "Edard Stark",
+    "DisplayWeek": false,
+    "IdMSSOID": "3d57ae56-a372-4491-988e-542db4902098",
+    "IsSuperAdmin": false,
+    "Payers": [
+        {
+            "IsDefault": true,
+            "PayerGroup": null,
+            "PayerGroupId": null,
+            "ColCoCode": 32,
+            "ColCoCountryCode": "EN",
+            "ColCoId": 32,
+            "PayerId": 2317,
+            "PayerName": "MoneyMan",
+            "PayerNumber": "EN00002713"
+        }
+    ],
+    "PreferredLanguage": "",
+    "Roles": [
+        {
+            "IsCustomerAdmin": true,
+            "IsCustomerUser": true,
+            "IsServiceAccount": true,
+            "IsShellAdmin": true,
+            "IsUserAdmin": true,
+            "RoleName": "FleetUser"
+        }
+    ],
+    "TimeFormat": "",
+    "Units": "",
+    "UserName": "3d57ae56-a372-4491-988e-542db4902098",
+    "WeekBegins": 0,
+    "Error": {
+        "Code": "0000",
+        "Description": "Success"
+    },
+    "RequestId": "0fdf6913-3293-49ab-b62b-ed8bb8476716"
+}

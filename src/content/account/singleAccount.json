@@ -1,0 +1,70 @@
+
+{
+    "Accounts": [
+        {
+            "AccountFullName": "Stark Automotive Private company",
+            "AccountId": 569,
+            "AccountNumber": "EN29384940",
+            "AccountShortName": "Stark Automotive Private company",
+            "BestOfIndicator": false,
+            "BillingFrequencyType": "Last day of month",
+            "BillingFrequencyTypeId": 40,
+            "BillingRunFrequency": "Monthly - 1st",
+            "BillingRunFrequencyTypeId": 10,
+            "ColCoCountryCode": "CZ",
+            "CurrencyCode": "CZK",
+            "CurrencySymbol": "Kč",
+            "Day1Run": 31,
+            "Day2Run": null,
+            "Day3Run": null,
+            "Day4Run": null,
+            "FrequencyType": "4 - Invoicing",
+            "GrossAmount": 409145.710000,
+            "InternationalPOSLanguageCode": "eng",
+            "InternationalPOSLanguageID": 8,
+            "InvoiceAccountID": 569,
+            "InvoiceAccountNumber": "EN29384940",
+            "InvoiceAccountShortName": "Macedonia",
+            "InvoiceDistributionMethods": [
+                {
+                    "DistributionMethod": "1 - e-mail",
+                    "IsPrimary": true,
+                    "OutputType": "1 - PDF"
+                }
+            ],
+            "IsInternational": false,
+            "IsInvoicePoint": true,
+            "LastModifiedDate": "20140729 12:50:26",
+            "LocalCurrencyCode": "CZK",
+            "LocalCurrencySymbol": "Kč",
+            "LocalPOSLanguageCode": "ces",
+            "LocalPOSLanguageID": 5,
+            "NetAmount": 355048.100000,
+            "OutstandingBalance": 409145.710000,
+            "PaidAmount": 0.000000,
+            "Status": "Active",
+            "StatusReason": "",
+            "TotalActiveCardGroups": 5,
+            "TotalActiveCards": 13,
+            "TotalBlockedCards": 3,
+            "TotalCancelledCards": 0,
+            "TotalCards": 17,
+            "TotalExpiredCards": 0,
+            "TotalFraudCards": 0,
+            "TotalNewCards": 0,
+            "TotalRenewalPendingCards": 0,
+            "TotalReplacedCards": 0,
+            "TotalTemporaryBlockCardsByCustomer": 1,
+            "TotalTemporaryBlockCardsByShell": 0,
+            "VATAmount": 54097.610000
+        }
+    ],
+    "CurrentPage": 1,
+    "RowCount": 1,
+    "TotalPages": 1,
+    "Error": {
+        "Code": "0000",
+        "Description": "Success"
+    },
+    "RequestId": "6fbc7061-a231-40b5-e342-6ab7378de8a0"
+}

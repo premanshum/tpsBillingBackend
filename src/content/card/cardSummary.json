@@ -1,0 +1,19 @@
+{
+    "ActiveCards": 45,
+    "BlockedCards": 7,
+    "CancelledCards": 4,
+    "ExpiredCards": 0,
+    "ExpiringCards": 11,
+    "FraudCards": 6,
+    "NewCards": 0,
+    "RenewalPendingCards": 0,
+    "ReplacedCards": 0,
+    "TemporaryBlockByCustomer": 9,
+    "TemporaryBlockByShell": 4,
+    "TotalCards": 61,
+    "Error": {
+        "Code": "0000",
+        "Description": "Success"
+    },
+    "RequestId": "75dd8f50-782b-43f1-a029-1987a117442c"
+}

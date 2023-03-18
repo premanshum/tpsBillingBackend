@@ -1,0 +1,72 @@
+{
+    "InvoicesSummaries": [
+        {
+            "SummaryDocumentDate": "20190520",
+            "TotalBillingDocuments": 6,
+            "TotalSummaryDocuments": 7,
+            "PaymentDueDate" : "20190722",
+            "TotalGrossAmountBillingCurrency": 200.70,
+            "TotalNetAmountBillingCurrency": 180.56,
+            "TotalVATAmountBillingCurrency": 32.12,
+            "AmountPaid": 50.0,
+            "AmountDue": 117.80,
+            "AmountNotOverdue": 41.92,
+            "AmountOverdue": 89.76,
+            "OutstandingBalance": 190.77,
+            "BillingCurrencyCode": "CZK",
+            "BillingCurrencySymbol": "Kč"
+        },    
+        {
+            "SummaryDocumentDate": "20190630",
+            "TotalBillingDocuments": 8,
+            "TotalSummaryDocuments": 9,
+            "PaymentDueDate" : "20190731",
+            "TotalGrossAmountBillingCurrency": 300.70,
+            "TotalNetAmountBillingCurrency": 280.56,
+            "TotalVATAmountBillingCurrency": 42.12,
+            "AmountPaid": 60.0,
+            "AmountDue": 217.80,
+            "AmountNotOverdue": 51.92,
+            "AmountOverdue": 99.76,
+            "OutstandingBalance": 290.77,
+            "BillingCurrencyCode": "CZK",
+            "BillingCurrencySymbol": "Kč"
+        }
+    ],
+    "LastStatementOfAccount": {
+        "AmountDue": 423.500000,
+        "AmountNotOverdue": 3932.500000,
+        "AmountOverdue": 172689.070000,
+        "CreditLimit": 50000.000000,
+        "CreditLimitCurrencyCode": "CZK",
+        "CreditLimitCurrencySymbol": "Kč",
+        "CurrencyCode": "CZK",
+        "CurrencySymbol": "Kč",
+        "LastPaymentCurrencyCode": "CZK",
+        "LastPaymentCurrencySymbol": "Kč",
+        "LastPaymentDate": "99991231",
+        "LastPaymentValue": 0.000000,
+        "OutstandingBalance": 176621.570000,
+        "PayerId": 2317,
+        "PayerNumber": "EN00002713",
+        "PaymentDueDate": "20191014",
+        "PaymentMethod": "Incoming - Bank Transfer",
+        "PaymentMethodId": 4,
+        "PaymentTerms": "14 days after Invoice",
+        "PaymentTermsId": 1,
+        "SoAReferenceNumber": "2000689059",
+        "StatementDate": "20190930",
+        "StatementOfAccountId": 2000689059,
+        "TotalBillingDocuments": 5,
+        "TotalSummaryBillingDocuments": 5,
+        "UnallocatedPayment": 0.000000
+    },
+    "MonthlyInvoiceTrend": null,
+    "PastStatementOfAccounts": null,
+    "PaymentsSinceLastSOA": null,
+    "Error": {
+        "Code": "0000",
+        "Description": "Success"
+    },
+    "RequestId": "794ec94e-24c7-434c-f60e-af73bad44a36"
+}
